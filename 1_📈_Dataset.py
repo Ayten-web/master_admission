@@ -8,8 +8,8 @@ df = pd.read_csv('Admission_Predict_Ver1.1.csv')
 
 
 # Introduction
-st.title("Admission Data Analysis")
-st.write("<span style='font-size: 24px;'>👋 Hello! We are Dunya, Aytan,Sona, Minaya and we're excited to present our analysis of the admissions dataset.</span>", unsafe_allow_html=True)
+st.title(" US Admission Data Analysis")
+st.write("<span style='font-size: 24px;'>👋 Hello! We are girls from UFAZ, Minaya and we're excited to present our analysis of the admissions dataset from US universities.</span>", unsafe_allow_html=True)
 
 # Motivation
 st.header("Motivation")
@@ -17,7 +17,7 @@ st.write("<span style='font-size: 24px;'>🚀 Our motivation for this analysis i
 
 # About the Dataset
 st.header("About the Dataset")
-st.write("<span style='font-size: 24px;'>📊 The dataset we used for this analysis is sourced from **IEXX**. It contains information about graduate school admissions, including various factors that influence admission decisions.</span>", unsafe_allow_html=True)
+st.write("<span style='font-size: 24px;'>📊 The dataset we used for this analysis is sourced from **IEEE Xplore**. It contains information about graduate school admissions, including various factors that influence admission decisions.</span>", unsafe_allow_html=True)
 
 # Data Columns and Meanings
 st.header("Data Columns and Meanings")

@@ -42,9 +42,8 @@ st.markdown(
 # Future Work Section
 st.header("Future Work 🚀")
 st.write("There are several avenues for future work and enhancements to this analysis:")
-st.write("- Explore more advanced machine learning models for admission prediction.")
+st.write("- Add more analsis for other demanded universities and  scholarships")
 st.write("- Incorporate additional features, such as extracurricular activities or statement of purpose text analysis.")
-st.write("- Conduct a deeper analysis of the influence of each feature on admission chances.")
 st.write("- Create a predictive model to estimate a candidate's admission probability.")
 
 # Contact Section
