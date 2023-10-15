@@ -9,7 +9,7 @@ df = pd.read_csv('Admission_Predict_Ver1.1.csv')
 
 # Introduction
 st.title(" US Admission Data Analysis")
-st.write("<span style='font-size: 24px;'>👋 Hello! We are girls from UFAZ, Minaya and we're excited to present our analysis of the admissions dataset from US universities.</span>", unsafe_allow_html=True)
+st.write("<span style='font-size: 24px;'>👋 Hello! We are a fresh graduated students and  excited to present our analysis of the admissions dataset from US universities.</span>", unsafe_allow_html=True)
 
 # Motivation
 st.header("Motivation")
