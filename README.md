@@ -1,8 +1,6 @@
 
 # Admission Data Analysis
 
-# Admission Data Analysis
-
 This project is an interactive data analysis application created using Streamlit to explore and analyze admission data. The application provides insights into the factors that affect the chances of admission to a university, such as GRE scores, TOEFL scores, research experience, and more.
 
 ## Access the Application
